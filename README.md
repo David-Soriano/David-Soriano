@@ -16,6 +16,24 @@ Here are some ideas to get you started:
 ### Hola 👋
 
 ## Soy David Soriano.
-<img src="https://i.pinimg.com/736x/f9/39/bb/f939bbdfb0ac7fe008e46a817da42702.jpg">
+<img src="https://github.com/David-Soriano/David-Soriano/blob/main/Banner.png">
 
 <h3 align="center">Creador de Experiencias Web | Explorador Fullstack | Amante del Código Limpio</h3>
+
+## 🧠 Sobre mí
+
+- 👨‍💻 Desarrollador fullstack junior con enfoque en frontend.  
+- 🧩 Conozco el ciclo completo del software: análisis, diseño, backend y bases de datos.  
+- 🎯 Enfocado en crear experiencias web modernas y funcionales.  
+- 🚀 Apasionado por el aprendizaje constante y la mejora continua.
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=David-Soriano&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Soriano&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=David-Soriano&theme=github-dark&hide_border=true" />
+</p>
