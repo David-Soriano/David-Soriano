@@ -46,28 +46,14 @@ Here are some ideas to get you started:
 </div>
 
 </td><td valign="top" width="33%">
-
-### ⚙️ Backend  
-<div align="center">  
-<a href="https://www.php.net/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-### 🔧 DevOps / Herramientas  
-<div align="center">  
-<a href="https://git-scm.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img src="https://cdn-1.webcatalog.io/catalog/github/github-icon-filled-256.png?v=1753662983890" alt="GitHub" height="50" /></a>  
-</div>
+⚙️ Backend
+<div align="center"> <a href="https://www.php.net/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a> <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a> <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a> </div> </td><td valign="top" width="33%">
+🔧 DevOps / Herramientas
+<div align="center"> <a href="https://git-scm.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a> <a href="https://github.com/" target="_blank"><img src="https://cdn-1.webcatalog.io/catalog/github/github-icon-filled-256.png?v=1753662983890" alt="GitHub" height="50" /></a> <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a> </div>
 
 </td></tr></table>  
 
 ---
-
-### 🚀 Nota
-
-📌 Actualmente me encuentro **aprendiendo y practicando React.js** a través de proyectos, cursos y retos reales como parte de mi crecimiento como desarrollador frontend.
 
 ## 🤝 Contacta conmigo  
 <div align="center">
